@@ -4,8 +4,10 @@
 
 This section explores various AI problem-solving approaches and techniques.
 
-- **PEAS Description and Problem Formulation**  
+- **PEAS Description**  
   Explore direct questions related to Problem, Environment, Actions, and Strategies (PEAS) or problem formulation in AI.
+
+- **Problem Formulation**
 
 - **Forward Backward Chaining and Resolution**  
   Dive into the concepts of logical reasoning using forward/backward chaining and resolution methods.
