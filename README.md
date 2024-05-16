@@ -20,7 +20,7 @@ Explore a collection of AI algorithms and techniques implemented in this reposit
 2. **Hill Climbing Search**  
    Implementation of the hill climbing algorithm for optimization problems.
 
-3. **A* Algorithm**  
+3. **A Star Algorithm**  
    Use the A* algorithm to efficiently find paths to goal states.
 
 4. **Minimax Algorithm**  
