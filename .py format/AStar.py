@@ -76,3 +76,38 @@ Graph_nodes = {
 }
 
 path, distance = aStarAlgo('C', 'G')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+Problem Formulation:
+State Space
+Action Space
+Transition Model
+Reward Function
+Policy(PI)
+Perception(P)
+Learning Algorithm
+'''
