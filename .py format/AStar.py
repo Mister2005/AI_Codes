@@ -103,11 +103,11 @@ path, distance = aStarAlgo('C', 'G')
 
 '''
 Problem Formulation:
-State Space
-Action Space
-Transition Model
-Reward Function
-Policy(PI)
+State Space - All States in space
+Action Space - Responses
+Transition Model - Transition probability
+Reward Function - Reinforcement
+Policy(PI) - (Deterministic Policy)
 Perception(P)
 Learning Algorithm
 '''
